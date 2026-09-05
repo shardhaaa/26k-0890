@@ -1,10 +1,10 @@
 # Shardha
 
-##Summary 
+## Summary 
 Aspiring AI/ML Engineer and Computer Science student focused on machine learning algorithms, data structures, and intelligent backend systems. 
-![Profile Picture]()
+![Profile Picture]("C:\Users\User\Documents\profile-picture.jpeg")
 
-##Education
+## Education
 ** BS Computer Science **
 * FAST National University of Computer & Emerging Sciences *
 
@@ -14,7 +14,7 @@ Aspiring AI/ML Engineer and Computer Science student focused on machine learning
 * Also worked on FastAPI and Database.
 
 ## Projects
-Netflix Clone
-Amazon Clone
-Hospital Appointment system using Python
-Elite Travel & Currency Hub 
+Netflix Clone,
+Amazon Clone,
+Hospital Appointment system using Python,
+Elite Travel & Currency Hub.
