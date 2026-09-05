@@ -5,8 +5,8 @@ Aspiring AI/ML Engineer and Computer Science student focused on machine learning
 ![Profile Picture]()
 
 ## Education
-** BS Computer Science **
-* FAST National University of Computer & Emerging Sciences *
+**BS Computer Science**
+*FAST National University of Computer & Emerging Sciences*
 
 ## -Skills
 * HTML, CSS & Java-script
@@ -20,17 +20,17 @@ Hospital Appointment system using Python,
 Elite Travel & Currency Hub.
 
 ## Hobbies & Extracurriculars
-** Playing badminton **
+**Playing badminton**
 - [x] Buy new racket
 - [ ] Join the university sports club
 - [x] Practicing every morning
 
-** Reading books **
+**Reading books**
 - [x] learning vocabulary
 - [ ] Reading 20 pages a day
 - [x] learning something new
 
-** Learning French **
+**Learning French**
 - [ ] practice basic vocabulary
 - [ ] read a French book
       
