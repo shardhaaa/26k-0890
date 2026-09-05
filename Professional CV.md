@@ -5,7 +5,7 @@ Aspiring AI/ML Engineer and Computer Science student focused on machine learning
 ![Profile Picture](profile-picture.jpeg)
 
 ## Education
-**BS Computer Science**\n
+**BS Computer Science**
 *FAST National University of Computer & Emerging Sciences*
 
 ## -Skills
