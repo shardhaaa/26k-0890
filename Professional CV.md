@@ -2,11 +2,11 @@
 
 ## Summary 
 Aspiring AI/ML Engineer and Computer Science student focused on machine learning algorithms, data structures, and intelligent backend systems. 
-![Profile Picture]("C:\Users\User\Documents\profile-picture.jpeg")
+![Profile Picture]("profile-picture.")
 
 ## Education
-** BS Computer Science **
-* FAST National University of Computer & Emerging Sciences *
+**BS Computer Science**
+*FAST National University of Computer & Emerging Sciences*
 
 ## -Skills
 * HTML, CSS & Java-script
